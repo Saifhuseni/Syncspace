@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344977288597",
+    "project_id": "syncspace-e7abf",
+    "storage_bucket": "syncspace-e7abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344977288597:android:09e879dcf25cb8b122da9c",
+        "android_client_info": {
+          "package_name": "com.example.syncspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344977288597-7j50h3ov7jv0utjpa7ichpc2tc16jug4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.syncspace",
+            "certificate_hash": "620e604c0580815d900b7f77d1aa2a58e6b97e0e"
+          }
+        },
+        {
+          "client_id": "344977288597-h15er2ii3hn53ofnhds57kuj34croqrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "" 
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344977288597-h15er2ii3hn53ofnhds57kuj34croqrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
